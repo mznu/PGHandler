@@ -1,0 +1,41 @@
+<key>LSApplicationQueriesSchemes</key>
+<array>
+    <string>ansimclickipcollect</string>
+    <string>ansimclickscard</string>
+    <string>bankwallet</string>
+    <string>chaipayment</string>
+    <string>citicardappkr</string>
+    <string>citimobileapp</string>
+    <string>citispay</string>
+    <string>cloudpay</string>
+    <string>hanaskcardmobileportal</string>
+    <string>hanawalletmembers</string>
+    <string>hdcardappcardansimclick</string>
+    <string>ispmobile</string>
+    <string>itms-apps</string>
+    <string>kakaotalk</string>
+    <string>kb-acp</string>
+    <string>kftc-bankpay</string>
+    <string>kpay</string>
+    <string>lotteappcard</string>
+    <string>lottesmartpay</string>
+    <string>lpayapp</string>
+    <string>mpocket.online.ansimclick</string>
+    <string>nhallonepayansimclick</string>
+    <string>nhappvardansimclick</string>
+    <string>nonghyupcardansimclick</string>
+    <string>payco</string>
+    <string>samsungpay</string>
+    <string>scardcertiapp</string>
+    <string>shinhan-allthat</string>
+    <string>shinhan-sr-ansimclick</string>
+    <string>shinsegaeeasypayment</string>
+    <string>smhyundaiansimclick</string>
+    <string>smshinhanansimclick</string>
+    <string>supertoss</string>
+    <string>tswansimclick</string>
+    <string>ukbanksmartbanknonloginpay</string>
+    <string>uppay</string>
+    <string>vguardstart</string>
+    <string>wooripay</string>
+</array>
