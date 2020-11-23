@@ -1,6 +1,6 @@
 # PGHandler
 
-![License](https://img.shields.io/github/license/mznu/PGHandler)
+[![License](https://img.shields.io/github/license/mznu/PGHandler)](http://www.wtfpl.net/)
 
 `WKWebView` 를 사용하는 iOS 9+ 하이브리드 앱용 PG 연동 Helper
 
