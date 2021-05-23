@@ -12,7 +12,7 @@
 
 ```swift
 func webView(_ webView: WKWebView, decidePolicyFor navigationAction: WKNavigationAction, decisionHandler: @escaping (WKNavigationActionPolicy) -> Void) {
-    switch PGHandler.handle(navigationAction: navigationAction) {
+    switch PGHandler.handle(action: navigationAction) {
     case .shouldCancel:
         decisionHandler(.cancel)
     case .shouldAllow:
