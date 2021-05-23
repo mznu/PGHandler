@@ -8,6 +8,7 @@
     <string>citimobileapp</string>
     <string>citispay</string>
     <string>cloudpay</string>
+    <string>hanamopmoasign</string>
     <string>hanaskcardmobileportal</string>
     <string>hanawalletmembers</string>
     <string>hdcardappcardansimclick</string>
@@ -17,11 +18,15 @@
     <string>kb-acp</string>
     <string>kftc-bankpay</string>
     <string>kpay</string>
+    <string>lguthepay-xpay</string>
+    <string>lguthepay</string>
+    <string>lmslpay</string>
     <string>lotteappcard</string>
     <string>lottesmartpay</string>
     <string>lpayapp</string>
     <string>mpocket.online.ansimclick</string>
     <string>nhallonepayansimclick</string>
+    <string>nhappcash-acp</string>
     <string>nhappvardansimclick</string>
     <string>nonghyupcardansimclick</string>
     <string>payco</string>
@@ -30,12 +35,16 @@
     <string>shinhan-allthat</string>
     <string>shinhan-sr-ansimclick</string>
     <string>shinsegaeeasypayment</string>
+    <string>smartxpay-transfer</string>
     <string>smhyundaiansimclick</string>
+    <string>smilepayapp</string>
     <string>smshinhanansimclick</string>
     <string>supertoss</string>
     <string>tswansimclick</string>
     <string>ukbanksmartbanknonloginpay</string>
     <string>uppay</string>
     <string>vguardstart</string>
+    <string>wibeetalk</string>
+    <string>woorimembers</string>
     <string>wooripay</string>
 </array>

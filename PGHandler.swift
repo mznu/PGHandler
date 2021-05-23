@@ -12,8 +12,8 @@ public class PGHandler {
     
     private init() { }
     
-    public static func handle(navigationAction: WKNavigationAction) -> Result {
-        guard let url = navigationAction.request.url else { return .shouldAllow }
+    public class func handle(action: WKNavigationAction) -> Result {
+        guard let url = action.request.url else { return .shouldAllow }
         
         if url.scheme == "itms-apps" || url.host == "itunes.apple.com" || url.host == "apps.apple.com" {
             if UIApplication.shared.canOpenURL(url) {
